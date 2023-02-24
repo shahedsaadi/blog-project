@@ -11,6 +11,7 @@ Personal blog or personal diary website. The home page includes all of the blog 
 - JavaScript.
 - Expressjs.
 - EJS.
+- MongoDB.
 
 #### To run the project:
 
